@@ -30,4 +30,3 @@ jobs:
           cpanel_domain: 'juandap.com'
           cpanel_repository: 'github.com/JuandaPatra/laravel-gh' 
           local_path: '.'
-
